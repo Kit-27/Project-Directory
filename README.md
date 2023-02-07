@@ -1,8 +1,5 @@
-# Project-Directory-Cody-Panthaphim
+VEX Machine Project:
 
-Hello and welcome to my project directory! Each project can be found under a different branch. Hope you find them interesting.
+This project was for my Principals of Engineering class in high school. The goal of the project was to create a compound machine from 6 other simple machines using VEX Robtics parts and programming. Moreover, there were certain constraints that had to be satisfied. 
 
-If you have any questions about these projects or would like to know more, let me know.
-
--Cody
-CodyKitPanthaphim@gmail.com
+Everything from beginning to end is recorded in the PDF above.
