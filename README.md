@@ -1,8 +1,3 @@
-# Project-Directory-Cody-Panthaphim
+Travel Paper
 
-Hello and welcome to my project directory! Each project can be found under a different branch. Hope you find them interesting.
-
-If you have any questions about these projects or would like to know more, let me know.
-
--Cody
-CodyKitPanthaphim@gmail.com
+This does not really count as a "project" but I am incredibly proud of this paper for my UMN WRIT 1301 course which was offered at my high school (College In the Schools or CIS). I incorporated narrative elements and research to make what I believe, is the writing I have ever done. 
