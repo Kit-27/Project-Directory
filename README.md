@@ -1,8 +1,7 @@
-# Project-Directory-Cody-Panthaphim
+# Reverse Engineering Project
 
-Hello and welcome to my project directory! Each project can be found under a different branch. Hope you find them interesting.
+For my Intro to Engineering Design high school class, I disassembled a Razor Scooter and measured all the parts including screws and bearings. There were a total of 27 parts and they were modeled into Autodesk Inventor. The parts were then assembled and a new innovation I designed was added onto the scooter.
 
-If you have any questions about these projects or would like to know more, let me know.
+Since the portfolio is more than 80 pages, I included only enough information to convey the purpose of the project.
 
--Cody
-CodyKitPanthaphim@gmail.com
+If you want to know more about specific parts or how I made them, I can do that!
